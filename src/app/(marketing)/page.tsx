@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { Button } from '@/components/ui/button'
 import { SignUpButton } from '@clerk/nextjs'
 
-import { subscriptionTiersInOrder } from '../data/subscription-tiers'
+import { subscriptionTiersInOrder } from '../../data/subscription-tiers'
 import { PricingCard } from './_components/pricing-card'
 import { ClerkIcon } from './_icons/clerk-icon'
 import { NeonIcon } from './_icons/neon-icon'

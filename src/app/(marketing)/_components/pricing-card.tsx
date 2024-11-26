@@ -1,4 +1,4 @@
-import { subscriptionTiersInOrder } from '@/app/data/subscription-tiers'
+import { subscriptionTiersInOrder } from '@/data/subscription-tiers'
 import { Button } from '@/components/ui/button'
 import {
   Card,
